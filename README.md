@@ -38,7 +38,7 @@ Lai arī haotiski, tie ļoti noder.
 Teksta redaktora meklēšanas funkcija arī noder.  
 Pieraksti, galvenokārt, ir priekš sevis.
 Manuprāt, pat netīri, haotiski pieraksti ir daudz labāki nekā nekādu pierakstu.  
-Veido pierakstus.
+Veido pierakstus!
 
 # Darba pienākumi
 Man šķiet, ka bieži IT darbā tev maksā par to, lai mācītos.  
