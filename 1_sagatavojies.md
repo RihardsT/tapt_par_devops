@@ -4,7 +4,8 @@ lieti noder. It īpaši ja veic DevOps darbu.
 Pieņemu ka lieto Windows, tad attiecīgi viens no vienkāršākajiem veidiem,
 kā tikt pie termināļa ir WSL:  
 https://docs.microsoft.com/en-us/windows/wsl/install-win10  
-Seko instrukcijām tur un ieinstalē to.
+Seko instrukcijām tur un ieinstalē to.  
+Ieinstalē Ubuntu 20.04 distribūciju, ja tas to prasa.
 
 ### 2. Paroļu glabātuve un teksta redaktors
 Nākamajos soļos noteikti būs jātaisa daudz kontu, tāpēc parūpējies,
