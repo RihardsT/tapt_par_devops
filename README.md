@@ -43,7 +43,7 @@ Veido pierakstus!
 # Darba pienākumi
 Man šķiet, ka bieži IT darbā tev maksā par to, lai mācītos.  
 Kā DevOps personai, tavs darba uzdevums ir padarīt citu izstrādātāju darbu
-vienkāršāku, ērtāku, ātrāku. Galvenokārt, to panāk automatizējot teju cik tik iespējams.  
+vienkāršāku, ērtāku, ātrāku. Galvenokārt, to panāk automatizējot teju tik cik iespējams.  
 Liela daļa darba sastāv no meklēšanas internetā, dokumentācijas lasīšanas
 un arī daudz mēģinājumiem un kļūdām.  
 Tas viss reāli ir diezgan mierīgi.
