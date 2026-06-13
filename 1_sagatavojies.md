@@ -18,8 +18,7 @@ bet drošāk gan paroli, gan failu.
 Iemesls kāpēc ko tādu izmantot ir vienkāršs - mūsdienās hakeri lielākoties
 ielogojas, retāk pūlas un reāli hako. \*citāts nepieciešams\*  
 
-Tad uzinstalē kādu no teksta redaktoriem. Ļoti populāri ir šie divi:  
-https://atom.io/  
+Tad uzinstalē teksta redaktoru:
 https://code.visualstudio.com/ vai https://vscodium.com/ kas ir tas pats,
 tik atvērtā koda versija, kur nav pāris papildinājumi pieejami, bet tas ir labs.
 
